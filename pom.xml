@@ -3,4 +3,29 @@
   <groupId>org.amp1</groupId>
   <artifactId>Pull</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+<dependency>
+<groupId>org.apache.poi</groupId>
+  <artifactId>poi-ooxml</artifactId>
+  <version>3.8-beta4</version>
+  </dependency>
+  <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.141.59</version>
+
+
+
+
+</dependency>
+
+</dependencies>
+  
+  
+  
+  
+  
+  
+  
+  
 </project>
